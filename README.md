@@ -55,23 +55,63 @@ work closely with data structure, quality, and business logic.
 
 ---
 
-## 📊 Dashboard Preview (Selected Views)
+### 🧾 Executive Summary Dashboard
 
-> Full dashboard is interactive via Power BI link above  
-> Below are selected executive views 👇
+**🌙 Dark Mode**
+![Summary Dark](summary d.png)
 
-### 🔹 Executive Sales Overview
-![Executive Dashboard](Presentation/executive_overview.png)
+**☀️ Light Mode**
+![Summary Light](summary l.png)
 
-### 🔹 Customer Intelligence
-![Customer Intelligence](Presentation/customer_intelligence.png)
+---
 
-### 🔹 Product Performance
-![Product Performance](Presentation/product_performance.png)
+### 💰 Revenue Overview Dashboard
 
-### 🔹 Location & Fulfillment Analysis
-![Location Analysis](Presentation/location_analysis.png)
+**🌙 Dark Mode**
+![Revenue Dark](revenue d.png)
 
+**☀️ Light Mode**
+![Revenue Light](revenue l.png)
+
+---
+
+### 👥 Customer Intelligence Dashboard
+
+**🌙 Dark Mode**
+![Customer Dark](customer d.png)
+
+**☀️ Light Mode**
+![Customer Light](customer l.png)
+
+---
+
+### 📦 Product Performance Dashboard
+
+**🌙 Dark Mode**
+![Product Dark](product d.png)
+
+**☀️ Light Mode**
+![Product Light](product l.png)
+
+---
+
+### 🌍 Location & Operations Dashboard
+
+**🌙 Dark Mode**
+![Location Dark](location d.png)
+
+**☀️ Light Mode**
+![Location Light](location l.png)
+
+---
+
+### 🔍 Returns & Review Analysis Dashboard
+
+**🌙 Dark Mode**
+![Review Dark](review d.png)
+
+**☀️ Light Mode**
+![Review Light](review l.png)
 ---
 
 ## 📦 Large Files Notice
