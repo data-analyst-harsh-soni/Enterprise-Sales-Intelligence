@@ -57,62 +57,62 @@ work closely with data structure, quality, and business logic.
 
 ### 🧾 Executive Summary Dashboard
 
-**🌙 Dark Mode**
-![Summary Dark](summary d.png)
+#### 🌙 Dark Mode
+<img src="summary d.png" width="100%" />
 
-**☀️ Light Mode**
-![Summary Light](summary l.png)
+#### ☀️ Light Mode
+<img src="summary l.png" width="100%" />
 
 ---
 
 ### 💰 Revenue Overview Dashboard
 
-**🌙 Dark Mode**
-![Revenue Dark](revenue d.png)
+#### 🌙 Dark Mode
+<img src="revenue d.png" width="100%" />
 
-**☀️ Light Mode**
-![Revenue Light](revenue l.png)
+#### ☀️ Light Mode
+<img src="revenue l.png" width="100%" />
 
 ---
 
 ### 👥 Customer Intelligence Dashboard
 
-**🌙 Dark Mode**
-![Customer Dark](customer d.png)
+#### 🌙 Dark Mode
+<img src="customer d.png" width="100%" />
 
-**☀️ Light Mode**
-![Customer Light](customer l.png)
+#### ☀️ Light Mode
+<img src="customer l.png" width="100%" />
 
 ---
 
 ### 📦 Product Performance Dashboard
 
-**🌙 Dark Mode**
-![Product Dark](product d.png)
+#### 🌙 Dark Mode
+<img src="product d.png" width="100%" />
 
-**☀️ Light Mode**
-![Product Light](product l.png)
+#### ☀️ Light Mode
+<img src="product l.png" width="100%" />
 
 ---
 
 ### 🌍 Location & Operations Dashboard
 
-**🌙 Dark Mode**
-![Location Dark](location d.png)
+#### 🌙 Dark Mode
+<img src="location d.png" width="100%" />
 
-**☀️ Light Mode**
-![Location Light](location l.png)
+#### ☀️ Light Mode
+<img src="location l.png" width="100%" />
 
 ---
 
 ### 🔍 Returns & Review Analysis Dashboard
 
-**🌙 Dark Mode**
-![Review Dark](review d.png)
+#### 🌙 Dark Mode
+<img src="review d.png" width="100%" />
 
-**☀️ Light Mode**
-![Review Light](review l.png)
----
+#### ☀️ Light Mode
+<img src="review l.png" width="100%" />
+
 
 ## 📦 Large Files Notice
 
