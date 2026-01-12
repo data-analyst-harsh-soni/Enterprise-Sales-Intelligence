@@ -1,85 +1,93 @@
 # 📊 Enterprise Sales Intelligence Dashboard
 ### End-to-End Data Analytics Project | Self-Created Dataset
 
-🔗 **Live Power BI Dashboard:**  
+🚀 **Live Interactive Dashboard (Power BI)**  
 👉 https://app.powerbi.com/view?r=eyJrIjoiMDM0NTljYzgtMmQ4YS00MDhkLWE0MWYtNWRiMDUzNDZjYzZlIiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9
 
 ---
 
-## 🚀 Project Overview
+## 🧠 Project Overview
 
-This project demonstrates a complete **data analyst workflow** —
-from **creating a realistic dataset** to delivering
-**executive-level business insights** using Power BI.
+This project represents a **complete, real-world data analytics workflow** —
+starting from **dataset creation** and ending with
+**executive-level business insights**.
 
-Unlike typical projects, the **entire dataset was designed and created by me**
-to simulate real-world business complexity.
+Instead of relying on a ready-made dataset,  
+I **designed and generated the entire dataset myself** to simulate
+enterprise-scale data complexity and analytics challenges.
 
 ---
 
-## 🗂️ Dataset Creation (From Scratch)
+## 🏗️ Dataset Creation (From Scratch)
 
-✔ Created using Python (Jupyter Notebook)  
+✔ Created using **Python (Jupyter Notebook)**  
 ✔ Multiple fact & dimension tables  
-✔ Primary–Foreign key relationships  
-✔ Star Schema data modeling  
+✔ Proper **Primary–Foreign Key relationships**  
+✔ Designed using **Star Schema modeling**
 
-📄 Notebook: `CREATE OWN DATASET.ipynb`
+📄 Dataset creation logic: `CREATE OWN DATASET.ipynb`
+
+> This approach mirrors real industry projects where analysts
+work closely with data structure, quality, and business logic.
 
 ---
 
 ## 🛠️ Tools & Skills Used
 
-- Power BI (DAX, KPIs, Dashboard Storytelling)
-- Power Query (Data Cleaning & Transformation)
-- SQL (Joins, Aggregations, Analysis)
-- Python (Dataset Creation)
-- Excel
-- Star Schema Data Modeling
-- Dynamic Dark & Light Mode Dashboards
+- **Power BI** – DAX, KPIs, Executive Dashboards
+- **Power Query** – Data Cleaning & Transformation
+- **SQL** – Joins, Aggregations, Analysis
+- **Python** – Dataset Generation
+- **Excel**
+- **Star Schema Data Modeling**
+- **Dynamic Dark & Light Mode Dashboards**
+- **Business & Executive Storytelling**
 
 ---
 
 ## 📈 Key Business Insights
 
 - Bronze-tier customers contribute nearly **50% of total profit**
-- High COGS offset by strong sales volume
-- Profit concentration reveals dependency risk
-- Regional profit gaps identified for corrective action
-- Operational efficiency drives scale
+- High COGS is balanced by strong sales volume
+- Profit concentration highlights dependency risk
+- Regional profit dips reveal improvement opportunities
+- Operational efficiency drives scalable performance
 
 ---
 
-## 📊 Dashboard Highlights
+## 📊 Dashboard Preview (Selected Views)
 
-- Executive KPIs: Revenue, Profit, Orders, Customers
-- Customer, Product & Location Intelligence
-- Interactive slicers & filters
-- Dark / Light mode toggle
+> Full dashboard is interactive via Power BI link above  
+> Below are selected executive views 👇
 
----
+### 🔹 Executive Sales Overview
+![Executive Dashboard](Presentation/executive_overview.png)
 
-## 📁 Project Files
+### 🔹 Customer Intelligence
+![Customer Intelligence](Presentation/customer_intelligence.png)
 
-- 📂 Dataset → Enterprise dataset
-- 📄 CREATE OWN DATASET.ipynb
-- 📄 Enterprise Dashboard.pbix
-- 📄 Enterprise Dashboard Presentation.pdf
+### 🔹 Product Performance
+![Product Performance](Presentation/product_performance.png)
 
----
-
-## 🎯 What This Project Demonstrates
-
-✔ End-to-end analytics thinking  
-✔ Dataset design & modeling skills  
-✔ Business-focused insight generation  
-✔ Executive dashboard storytelling  
+### 🔹 Location & Fulfillment Analysis
+![Location Analysis](Presentation/location_analysis.png)
 
 ---
 
-## 📬 Connect With Me
+## 📦 Large Files Notice
 
-🔗 LinkedIn: https://www.linkedin.com/in/harsh-soni-data-analyst  
-📧 Email: harshnewa@gmail.com  
+Due to GitHub file size limitations:
+- Raw dataset (200MB+) is not uploaded
+- Power BI `.pbix` file is not included
 
-Open to **Data Analyst Internships & Entry-Level Roles**
+Available instead:
+- ✔ Dataset creation logic (Notebook)
+- ✔ Dashboard insights (PDF & images)
+- ✔ Fully interactive **Live Power BI Dashboard**
+
+This reflects **real-world industry practices**.
+
+---
+
+## 📁 Repository Contents
+
